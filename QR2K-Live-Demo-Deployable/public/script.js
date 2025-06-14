@@ -1,0 +1,1 @@
+// Simulated course logic and table interactions
